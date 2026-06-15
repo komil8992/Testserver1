@@ -5,3 +5,4 @@ rw
 rb
 it
 bu
+https://raw.githubusercontent.com/komil8992/Testserver1/refs/heads/main/text.txt
