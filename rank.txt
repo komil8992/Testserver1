@@ -1,0 +1,5 @@
+c.ranks
+(Member)
+(ADMIN)
+(OWNER)
+(PIXEL)
