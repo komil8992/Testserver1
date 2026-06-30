@@ -1,5 +1,5 @@
 c.screen()
 name.screen(world1)
 trees(3)
-join.players.names.(https://raw.githubusercontent.com/komil8992/Testserver1/refs/heads/main/rank.txt)
+join.players.names.(https://raw.githubusercontent.com/komil8992/Testserver1/refs/heads/main/rank.txt).or(Member)
 server.status(o)
